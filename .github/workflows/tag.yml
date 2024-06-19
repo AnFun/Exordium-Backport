@@ -1,4 +1,4 @@
-name: Create Release
+aname: Create Release
 on:
   release:
     types: [published]
